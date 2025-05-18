@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chitranshjohari/Bite-Basket.git"
+    "url": "git+https://github.com/chitranshjohari/BeTheLight_Meals.git"
   },
   "author": "Chitransh Johari",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chitranshjohari/Bite-Basket/issues"
+    "url": "https://github.com/chitranshjohari/BeTheLight_Meals/issues"
   },
-  "homepage": "https://github.com/chitranshjohari/Bite-Basket#readme",
+  "homepage": "https://github.com/chitranshjohari/BeTheLight_Meals#readme",
   "dependencies": {
     "dom": "^0.0.3",
     "parcel": "^2.15.1",

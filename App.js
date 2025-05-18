@@ -2,12 +2,14 @@ const React = require('react');
 const ReactDOM = require('react-dom/client');
 
 const header = () => (
-  <div className='Navigation'></div>
+  <div className='header'>
+    <img></img>
+  </div>
 )
 
 const AppLayout = () => (
   <div className='app'>
-    <header>ballea</header>
+    <header></header>
   </div>
 )
 

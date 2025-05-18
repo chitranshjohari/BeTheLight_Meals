@@ -678,7 +678,12 @@ var _jsxDevRuntime = require("react/jsx-dev-runtime");
 const React = require("86e06cfbc65fbc12");
 const ReactDOM = require("b22212f3a1d9a8e");
 const header = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-        className: "Navigation"
+        className: "header",
+        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {}, void 0, false, {
+            fileName: "App.js",
+            lineNumber: 6,
+            columnNumber: 5
+        }, undefined)
     }, void 0, false, {
         fileName: "App.js",
         lineNumber: 5,
@@ -686,23 +691,21 @@ const header = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
     }, undefined);
 const AppLayout = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "app",
-        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("header", {
-            children: "ballea"
-        }, void 0, false, {
+        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("header", {}, void 0, false, {
             fileName: "App.js",
-            lineNumber: 10,
+            lineNumber: 12,
             columnNumber: 5
         }, undefined)
     }, void 0, false, {
         fileName: "App.js",
-        lineNumber: 9,
+        lineNumber: 11,
         columnNumber: 3
     }, undefined);
 _c = AppLayout;
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(AppLayout, {}, void 0, false, {
     fileName: "App.js",
-    lineNumber: 15,
+    lineNumber: 17,
     columnNumber: 13
 }, undefined));
 var _c;
