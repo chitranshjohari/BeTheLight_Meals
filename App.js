@@ -7,7 +7,7 @@ const header = () => (
 
 const AppLayout = () => (
   <div className='app'>
-    <header></header>
+    <header>ballea</header>
   </div>
 )
 
