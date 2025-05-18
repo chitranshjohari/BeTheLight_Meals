@@ -2,9 +2,9 @@
   "name": "food-odering",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel index.html"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/chitranshjohari/Bite-Basket/issues"
   },
-  "homepage": "https://github.com/chitranshjohari/Bite-Basket#readme"
+  "homepage": "https://github.com/chitranshjohari/Bite-Basket#readme",
+  "dependencies": {
+    "dom": "^0.0.3",
+    "parcel": "^2.15.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
 }
