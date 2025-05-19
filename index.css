@@ -1,0 +1,53 @@
+.app {
+  margin: 10px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid black;
+  border-radius: 15px;
+}
+
+.logo-contain {
+  width: 100px;
+  height: 100px;
+}
+
+.navigation {
+  margin: 20px;
+}
+
+.navigation ul {
+  list-style: none;
+  display: flex;
+  gap: 20;
+  padding: 0 2px;
+  cursor: pointer;
+
+}
+
+.body {
+  margin-top: 20px;
+}
+
+.res-logo {
+  height: 60%;
+  width: 90%;
+  margin: 15px;
+}
+
+.res-card {
+  background-color: rgb(235, 239, 235);
+  width: 20%;
+  height: 40%;
+  margin: 20px;
+}
+
+.res-container {
+  height: 100vh;
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
